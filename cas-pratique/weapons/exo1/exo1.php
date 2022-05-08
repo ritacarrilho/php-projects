@@ -11,16 +11,13 @@ $weapon4 = 'chain';
 
 $weapons = [$weapon1, $weapon2, $weapon3, $weapon4];
 // echo '<pre>'; print_r($weapons); echo '</pre>';
-
-
-
 ?>
 
 <div>
     <strong>Here is the list of all weapons : </strong>
 </div>
 <?php
-foreach($weapons as $i => $value): echo 'Weapon ' . ($i+1) . ' : ' . $value . '</p>'; endforeach; ?>
+foreach($weapons as $i => $value): echo '<p>Weapon ' . ($i+1) . ' : ' . $value . '</p>'; endforeach; ?>
 <!-- <p>
     Weapon 1 : <?php //echo $weapon1 ?><br>
     Weapon 2 : <?php //echo  $weapon2 ?><br>
