@@ -1,0 +1,4 @@
+name: php-exercices
+recipe: lamp
+config:
+  webroot: .
