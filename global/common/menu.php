@@ -30,14 +30,14 @@
             Weapons
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo1/exo1.php">exo1</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo2/exo2.php">exo2</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo3/exo3.php">exo3</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo4/exo4.php">exo4</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo5/exo5.php">exo5</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo6/exo6.php">exo6</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo7/exo7.php">exo7</a>
-                <a class="dropdown-item" href="../../cas-pratique/weapons/exo8/exo8.php">exo8</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo1.php">exo1</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo2.php">exo2</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo3.php">exo3</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo4.php">exo4</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo5.php">exo5</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo6.php">exo6</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo7.php">exo7</a>
+                <a class="dropdown-item" href="../../cas-pratique/weapons/exo8.php">exo8</a>
             </div>
         </li>
     </ul>

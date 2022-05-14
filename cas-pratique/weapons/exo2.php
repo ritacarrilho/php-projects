@@ -46,5 +46,5 @@ endforeach; ?>
 
 <?php
     $content = ob_get_clean();
-    require "../../../global/common/template.php";
+    require "../../global/common/template.php";
 ?>

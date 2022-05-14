@@ -39,5 +39,5 @@ foreach($weapons as $i => $value): echo '<p>Weapon ' . ($i+1) . ' : ' . $value .
 
 <?php
     $content = ob_get_clean();
-    require "../../../global/common/template.php";
+    require "../../global/common/template.php";
 ?>
