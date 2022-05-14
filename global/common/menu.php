@@ -40,6 +40,12 @@
                 <a class="dropdown-item" href="../../cas-pratique/weapons/exo8.php">exo8</a>
             </div>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" href="../../cas-pratique/products-catalogue/products.php">
+                Products Catalogue
+            </a>
+        </li>
+
     </ul>
     </div>
 </nav>
