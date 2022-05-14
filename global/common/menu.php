@@ -45,7 +45,11 @@
                 Products Catalogue
             </a>
         </li>
-
+        <li class="nav-item">
+            <a class="nav-link" href="../../cas-pratique/animals/index.php">
+                Animals
+            </a>
+        </li>
     </ul>
     </div>
 </nav>

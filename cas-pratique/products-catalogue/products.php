@@ -13,8 +13,6 @@ $titre = "Dynamique Products Catalogue";
 
 <!-- CONTROLLER -->
 <?php
-session_start();
-
 $pdo_options = [ PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC ];
 
 // verify if is connected to DB
